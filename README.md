@@ -9,4 +9,14 @@ OR
 
 pip install requirements.txt
 
-Linux/Windows
+# Linux/Windows
+
+Linux
+
+sudo mv chromedriver /usr/local/bin
+
+sudo chmod +x /usr/local/bin/chromedriver
+
+
+
+
