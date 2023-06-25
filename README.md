@@ -9,13 +9,39 @@ OR
 
 pip install requirements.txt
 
-# Linux/Windows
-
-Linux
+# Linux
 
 sudo mv chromedriver /usr/local/bin
 
 sudo chmod +x /usr/local/bin/chromedriver
+
+# Windows
+
+Control Panel -->
+
+System and Security -->
+
+System -->
+
+Advanced system settings -->
+
+Advanced -->
+
+Environment Variables -->
+
+Edit --> 
+
+Edit -->
+
+Browse --> and search chromedriver.exe directory and click OK
+
+
+
+
+
+
+
+
 
 
 
