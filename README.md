@@ -1,6 +1,2 @@
-# bot-viewers
-python and chromedriver
+# Bot-viewers-free
 
-pip install undetected-chromedriver
-
-pip install tqdm
