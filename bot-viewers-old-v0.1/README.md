@@ -1,6 +1,5 @@
-# bot-viewers
-python and chromedriver
+v0.1
 
-pip install undetected-chromedriver
+PROXY SPOOF
 
-pip install tqdm
+AUTO CLICK V0.1
