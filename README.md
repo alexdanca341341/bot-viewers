@@ -9,3 +9,4 @@ OR
 
 pip install requirements.txt
 
+Linux/Windows
